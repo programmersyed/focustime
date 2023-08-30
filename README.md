@@ -2,7 +2,9 @@
 
 Welcome to **Focustime**, your ultimate companion for turbocharging your productivity and accomplishing your tasks with laser-like focus. Are you tired of distractions derailing your progress? Do you yearn for a simple yet effective tool to help you stay on track and complete your tasks? Look no further – Focustime is here to empower you!
 
-![Focustime GIF](https://github.com/programmersyed/focustime/raw/main/Focustime.gif)
+<div style="text-align:center;">
+  <img src="https://github.com/programmersyed/focustime/raw/main/Focustime.gif" alt="Focustime GIF">
+</div>
 
 ## What is Focustime?
 
