@@ -2,6 +2,8 @@
 
 Welcome to **Focustime**, your ultimate companion for turbocharging your productivity and accomplishing your tasks with laser-like focus. Are you tired of distractions derailing your progress? Do you yearn for a simple yet effective tool to help you stay on track and complete your tasks? Look no further – Focustime is here to empower you!
 
+![Focustime GIF](https://github.com/programmersyed/focustime/raw/main/Focustime.gif)
+
 ## What is Focustime?
 
 Focustime is not just another app; it's a productivity revolution at your fingertips. At its core, Focustime is a task-focused application meticulously designed to help you make the most of your valuable time. With its elegant and user-friendly interface, Focustime seamlessly integrates into your daily routine, assisting you in achieving your goals, one task at a time.
